@@ -1,0 +1,10 @@
+C:\Srinivas\Work\KNOWLEDGEBASE\Angular 2\Sources\EmployeeWebAPIServiceCore\bin\Debug\netcoreapp2.0\EmployeeWebAPIServiceCore.deps.json
+C:\Srinivas\Work\KNOWLEDGEBASE\Angular 2\Sources\EmployeeWebAPIServiceCore\bin\Debug\netcoreapp2.0\EmployeeWebAPIServiceCore.runtimeconfig.json
+C:\Srinivas\Work\KNOWLEDGEBASE\Angular 2\Sources\EmployeeWebAPIServiceCore\bin\Debug\netcoreapp2.0\EmployeeWebAPIServiceCore.runtimeconfig.dev.json
+C:\Srinivas\Work\KNOWLEDGEBASE\Angular 2\Sources\EmployeeWebAPIServiceCore\bin\Debug\netcoreapp2.0\EmployeeWebAPIServiceCore.dll
+C:\Srinivas\Work\KNOWLEDGEBASE\Angular 2\Sources\EmployeeWebAPIServiceCore\bin\Debug\netcoreapp2.0\EmployeeWebAPIServiceCore.pdb
+C:\Srinivas\Work\KNOWLEDGEBASE\Angular 2\Sources\EmployeeWebAPIServiceCore\obj\Debug\netcoreapp2.0\EmployeeWebAPIServiceCore.csproj.CoreCompileInputs.cache
+C:\Srinivas\Work\KNOWLEDGEBASE\Angular 2\Sources\EmployeeWebAPIServiceCore\obj\Debug\netcoreapp2.0\EmployeeWebAPIServiceCore.AssemblyInfoInputs.cache
+C:\Srinivas\Work\KNOWLEDGEBASE\Angular 2\Sources\EmployeeWebAPIServiceCore\obj\Debug\netcoreapp2.0\EmployeeWebAPIServiceCore.AssemblyInfo.cs
+C:\Srinivas\Work\KNOWLEDGEBASE\Angular 2\Sources\EmployeeWebAPIServiceCore\obj\Debug\netcoreapp2.0\EmployeeWebAPIServiceCore.dll
+C:\Srinivas\Work\KNOWLEDGEBASE\Angular 2\Sources\EmployeeWebAPIServiceCore\obj\Debug\netcoreapp2.0\EmployeeWebAPIServiceCore.pdb
