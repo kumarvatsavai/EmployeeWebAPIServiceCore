@@ -20,7 +20,7 @@ namespace EmployeeWebAPIServiceCore.Controllers
         [HttpGet("{id}")]
         public string Get(int id)
         {
-            return "value";
+            return "Kumar raju";
         }
 
         // POST api/values
